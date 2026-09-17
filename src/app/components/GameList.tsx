@@ -1,5 +1,5 @@
 import GameCard from "./GameCard";
-import type { Game } from "../types";
+import type { Game } from "@/app/type";
 
 type GameListProps = {
   games: Game[];
